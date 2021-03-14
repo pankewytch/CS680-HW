@@ -45,7 +45,7 @@
     </target>
 
     <target name="run" depends="compile_tests">
-        <java classname="edu.umb.cs680.hw03.Calculator"
+        <java classname="edu.umb.cs680.hw03.PrimeGenerator"
               classpathref="classpath"
               fork="true"/>
     </target>
