@@ -20,3 +20,13 @@ This assignment includes the following files:
 2. HW3/src/edu/umb/cs680/hw02/PrimeGenerator.java
 3. HW2-2/test/src/edu/umb/cs680/hw02/PrimeGeneratorTest.java
 Note, since the ant file is called build.xml one only needs to type ant in the terminal to build the project.
+This is the case of all other projects built with ant.
+
+## HW4
+This assignment inlcides the 
+1. HW4/test/src/edu/umb/cs680/hw04/students/StudentTest.java
+2. HW4/build.xml
+3. HW4/HW4.iml
+4. HW4/src/edu/umb/cs680/hw04/students/StudentStatus.java
+5. HW4/src/edu/umb/cs680/hw04/students/StudentFactory.java
+6. HW4/src/edu/umb/cs680/hw04/students/Student.java
